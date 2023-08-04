@@ -1,2 +1,2 @@
 # JAVA
-SLIIT Lab exercises 
+SLIIT Lab exercises & Tutorials
